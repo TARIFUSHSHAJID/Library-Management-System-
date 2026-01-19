@@ -1,0 +1,20 @@
+[
+    {
+        "id": "wish_dummy_1",
+        "user_id": 2,
+        "book_id": 1,
+        "added_at": "2024-01-15 10:00:00"
+    },
+    {
+        "id": "wish_dummy_2",
+        "user_id": 2,
+        "book_id": 2,
+        "added_at": "2024-01-16 14:30:00"
+    },
+    {
+        "id": "6966897d01c23",
+        "user_id": 3,
+        "book_id": "1",
+        "added_at": "2026-01-13 19:05:49"
+    }
+]
